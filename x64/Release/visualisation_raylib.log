@@ -1,0 +1,25 @@
+﻿  AdaptiveLogic.cpp
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\AdaptiveLogic.cpp(137,18): warning C4566: character represented by universal-character-name '\U0001F6A8' cannot be represented in the current code page (1252)
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\AdaptiveLogic.cpp(143,18): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\AdaptiveLogic.cpp(148,18): warning C4566: character represented by universal-character-name '\U0001F319' cannot be represented in the current code page (1252)
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\AdaptiveLogic.cpp(153,18): warning C4566: character represented by universal-character-name '\u2600' cannot be represented in the current code page (1252)
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\AdaptiveLogic.cpp(153,18): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+  coordinator.cpp
+  draw.cpp
+  IntersectionController.cpp
+  sensor.cpp
+  Trafficlight_fixe.cpp
+  traficLight.cpp
+  visualisation_raylib.cpp
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\draw.h(57,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'visualisation_raylib.cpp')
+  
+C:\Users\msi\Desktop\programation\c++\visualisation_raylib\visualisation_raylib\draw.h(71,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'visualisation_raylib.cpp')
+  
+  Generating code
+  18 of 18 functions (100.0%) were compiled.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  visualisation_raylib.vcxproj -> C:\Users\msi\Desktop\programation\c++\visualisation_raylib\x64\Release\visualisation_raylib.exe
